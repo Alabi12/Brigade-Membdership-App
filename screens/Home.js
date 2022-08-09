@@ -21,7 +21,7 @@ const Home = ({ navigation }) => {
       </View>
       <Button
         title="Registration Page"
-        onPress={() => navigation.navigate('About')}        
+        onPress={() => navigation.navigate('RegistrationScreen')}        
       />
     </View>
   )
